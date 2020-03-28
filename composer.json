@@ -1,6 +1,6 @@
 {
     "name": "grayzusht/liveinsta-api",
-    "description": "Instagram's private API for PHP",
+    "description": "API for personal use",
     "license": [
         "RPL-1.5",
         "proprietary"
